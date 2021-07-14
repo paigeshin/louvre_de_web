@@ -37,3 +37,5 @@ https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 # Node Templates
 
 [Node-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/node_ts)
+
+[Rest API based on Interface](https://github.com/paigeshin/node-typescript-basic-REST-API-example/blob/master/src/routes/todos.ts)
