@@ -34,6 +34,14 @@ https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
 [React-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/react-ts)
 
+[Stephen's Class Based Component Template](https://github.com/paigeshin/react-class-based-template-videos)
+
+[Stephen's Hook Based Component Template](https://github.com/paigeshin/react-hook-template-videos)
+
+[Stephen's Redux Template](https://github.com/paigeshin/redux-template-restapi-googlesignin)
+
+[Stephens Context Template](https://github.com/paigeshin/React-Context-Template)
+
 # Node Templates
 
 [Node-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/node_ts)
