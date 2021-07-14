@@ -20,3 +20,5 @@
 [webpack configuration for development ](https://www.notion.so/webpack-configuration-for-development-38c250e0260c44a79c9d3d46b3fa6909)
 
 [webpack for production](https://www.notion.so/webpack-for-production-ecbea3bff7fd47acb80c382fd9f570f1)
+
+[webpack starter project template](https://github.com/paigeshin/TS_TUTORIAL/tree/master/webpack-starter-project-kit)
