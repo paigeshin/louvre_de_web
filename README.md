@@ -48,6 +48,18 @@ https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
 [Rest API based on Interface](https://github.com/paigeshin/node-typescript-basic-REST-API-example/blob/master/src/routes/todos.ts)
 
+[Max Node graphql Template](https://github.com/paigeshin/node_js_graphql_template)
+
+[Max Node Classic Server Template](https://github.com/paigeshin/my_classic_node_server_template)
+
+[Max Websocket Template](https://github.com/paigeshin/my_classic_node_server_template)
+
+[Max Basic Rest API](https://github.com/paigeshin/BASIC_NODE_REST_API)
+
+[Max Rest API ASYNC ASAWIT BASED](https://github.com/paigeshin/REST_API_NODE_ASYNC_AWAIT)
+
+[My Rest API Template](https://github.com/paigeshin/MY_REST_API_TEMPLATE)
+
 # MERN Templates
 
 [Brad MERN](https://github.com/paigeshin/mern_brad)
