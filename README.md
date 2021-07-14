@@ -30,4 +30,7 @@ https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
 # React Templates 
 
-[React Typescript TodoList](https://github.com/paigeshin/TS_TUTORIAL/tree/master/react-ts)
+[Setting Up Typescript with React ](https://www.notion.so/Setting-Up-Typescript-with-React-e2a79d9e7b5e472a85fd1b37f402a1a4)
+
+[React-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/react-ts)
+
