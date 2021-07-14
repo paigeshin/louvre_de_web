@@ -42,6 +42,8 @@ https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
 [Stephens Context Template](https://github.com/paigeshin/React-Context-Template)
 
+[Redux Google SignIn](https://github.com/paigeshin/redux-template-restapi-googlesignin)
+
 # Node Templates
 
 [Node-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/node_ts)
@@ -58,7 +60,7 @@ https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
 [Max Rest API ASYNC ASAWIT BASED](https://github.com/paigeshin/REST_API_NODE_ASYNC_AWAIT)
 
-[My Rest API Template](https://github.com/paigeshin/MY_REST_API_TEMPLATE)
+[Max Rest API Template PROMISE BASED](https://github.com/paigeshin/MY_REST_API_TEMPLATE)
 
 # MERN Templates
 
