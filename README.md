@@ -2,6 +2,10 @@
 
 https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
+# Knowledge
+
+[cookies vs local storage vs session storage](https://www.notion.so/cookies-vs-local-storage-vs-session-storage-abf6b17b402944ea878a63eb5089a7df)
+
 # SEO
 
 [SEO 메타태그 최적화하기](https://www.notion.so/SEO-bb358d86e8194662bae18bc910ebbb96)
