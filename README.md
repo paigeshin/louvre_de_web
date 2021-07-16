@@ -2,6 +2,10 @@
 
 https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
 
+# SEO
+
+[SEO 메타태그 최적화하기](https://www.notion.so/SEO-bb358d86e8194662bae18bc910ebbb96)
+
 # louvre_de_web
 
 [Louvre de React](https://github.com/paigeshin/louvre_de_react)
